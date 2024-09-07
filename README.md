@@ -1,6 +1,12 @@
+
+
 # Admin Dashboard
 ![Screenshot (61)](https://github.com/user-attachments/assets/a16bb25c-c47e-4af0-9270-67e7c0a84a73)
 
+# User Email:
+admin@gmail.com
+# Passwords:
+admin
 # Index 
 
 ![Screenshot (72)](https://github.com/user-attachments/assets/ed6bef87-1302-4f94-a5ed-b1c261124e32)
