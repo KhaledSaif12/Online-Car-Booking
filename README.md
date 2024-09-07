@@ -12,6 +12,9 @@
 ![Screenshot (63)](https://github.com/user-attachments/assets/81687d2a-d9c1-4178-9163-b2291f3e244d)
 ![Screenshot (64)](https://github.com/user-attachments/assets/50a5c160-476a-4a92-8181-a9e17c9ea44d)
 
+# Bookings
+![Screenshot (65)](https://github.com/user-attachments/assets/70cc6f41-ca56-4f1f-bb9b-ffcce21f99ef)
+![Screenshot (66)](https://github.com/user-attachments/assets/86f431a8-c2a5-453c-95a6-e110351f9fed)
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
