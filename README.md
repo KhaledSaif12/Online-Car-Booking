@@ -19,6 +19,8 @@
 # Payments
 ![Screenshot (67)](https://github.com/user-attachments/assets/7a2c1b2f-3795-41e3-98b7-7ddb332ba60f)
 
+# Reviews
+![Screenshot (68)](https://github.com/user-attachments/assets/338e5348-ae46-4513-881f-ff89ad72acfc)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
