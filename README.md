@@ -21,7 +21,8 @@
 
 # Reviews
 ![Screenshot (68)](https://github.com/user-attachments/assets/338e5348-ae46-4513-881f-ff89ad72acfc)
-
+# Your Bookings
+![Screenshot (69)](https://github.com/user-attachments/assets/c12e50eb-0a5e-4d8a-b415-e1bf9ac3cd34)
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
