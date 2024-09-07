@@ -9,6 +9,8 @@
 # Register
 ![Screenshot (71)](https://github.com/user-attachments/assets/559e4d51-33b6-4a3e-bd4b-1915c19132b9)
 
+![Screenshot (63)](https://github.com/user-attachments/assets/81687d2a-d9c1-4178-9163-b2291f3e244d)
+![Screenshot (64)](https://github.com/user-attachments/assets/50a5c160-476a-4a92-8181-a9e17c9ea44d)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
